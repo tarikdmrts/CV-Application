@@ -1,6 +1,7 @@
 # CV Application
 
-A CV creation tool built as part of [The Odin Project's curriculum](https://www.theodinproject.com/lessons/node-path-react-new-cv-application).
+**Live Preview:** [tarikdmrts-cv-application.vercel.app](https://tarikdmrts-cv-application.vercel.app/)
+
 
 ## Overview
 
